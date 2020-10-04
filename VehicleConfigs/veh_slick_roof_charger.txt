@@ -1,0 +1,7 @@
+Flashing Lights game file for vehicle configuration.
+ 
+Vehicle model name:
+Police Car 1-2
+2=9|0|2?0?2?0&0.05?0.05?0.05?0.05&2&0.25?0.25^10|0|1?0?1?0&0.05?0.05?0.05?0.05&1&0.25?0.25=0
+ 
+* Adjusting this file manually may break the import/export functionality!
